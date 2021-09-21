@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\main",
+    "\\src\\main\\java",
+    "\\src\\main\\java\\test",
+    "\\src\\main\\java\\test\\thejudemo",
+    "\\src\\main\\java\\test\\thejudemo\\moviedataservice"
+  ],
+  "SelectedNode": "\\src\\main\\java\\test\\thejudemo\\moviedataservice\\MovieDataServiceApplication.java",
+  "PreviewInSolutionExplorer": false
+}
